@@ -81,7 +81,6 @@ const Header = () => {
                   </LinkContainer>
                 </NavDropdown>
               )}
-              Splat1988
             </Nav>
           </Navbar.Collapse>
         </Container>
