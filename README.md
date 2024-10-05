@@ -1,11 +1,13 @@
 Proshop Electronics Store
 ============
-[![GitHub Stars](https://img.shields.io/github/stars/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/IgorAntun/node-chat/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/IgorAntun/node-chat) [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://igorantun.com/chat) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/IgorAntun/node-chat?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 This is a MERN stack application utilizing the latest technologies like react-redux and Mongodb to build a fully functional online store.
 
-![Chat Preview]([http://i.imgur.com/lgRe8z4.png](https://i.imgur.com/kTBsYhU.png)
+![Proshop Preview]![proshop](https://github.com/user-attachments/assets/9ffe9161-027d-4270-8c0e-82d7f09b9d7e)
 
+** Please note, the app is uploaded to render.com and I'm using a free instance which will spin down with inactivity, which can delay requests by 50 seconds or more. So please be patient as the site might take a minute to load up. Thanks!
+
+URL: https://proshop-ydd6.onrender.com/
 
 ## Features
 - Bootstrap Design
